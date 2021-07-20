@@ -355,7 +355,8 @@ color: #fff;
 		font-family: arial;
 		font-size: 55px;
 	}
-	.secon{
+	.secon{text-align:center;
+		padding:1rem;
 		color: yellow;
 		font-size: 24px;
 
@@ -409,8 +410,8 @@ color: #fff;
 	width: 120px;
 	text-align: center;
 	margin-left: 0px;
-	padding-left: 2px;
-	padding-right: 2px;
+	padding-left: 1px;
+	padding-right: 1px;
 	font-size: 19px;
 
 	}
