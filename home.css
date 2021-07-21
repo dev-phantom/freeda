@@ -406,16 +406,16 @@ color: #fff;
 	padding-right: 4px;
 	font-size: 19px;
 	}
-	.third{
+.third{
 	height: 500px;
-	width: 150px;
+	width: auto;
 	text-align: center;
 	margin-left: 10px;
 	padding-left: 4px;
 	padding-right: 4px;
 	font-size: 19px;
-
-	}
+	margin-top:1rem;
+		}
 	.re{font-family: arial black;
 		color: #E4EFF4;
 		font-size: 25px;
