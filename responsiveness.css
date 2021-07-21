@@ -48,6 +48,17 @@
 	padding-right: 12px;
 	font-size: 19px;
 	}
+	  .third{
+	height: 500px;
+	width: auto;
+	text-align: center;
+	margin-left: 10px;
+	padding-left: 4px;
+	padding-right: 4px;
+	font-size: 19px;
+	margin-top:1rem;
+		}
+	  
 	.bu{outline: none;
 		height: 40px;
 		border-radius: 10px;
