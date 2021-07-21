@@ -29,8 +29,8 @@
 		outline: none;
 	}
 	.first{
-	height: 100px;
-	width: auto;
+	height: 200px;
+	width: 200px ;
 	margin-left: 25px;
 	text-align: center;
 	
@@ -39,8 +39,8 @@
 	font-size: 19px;
 		}
 	.second{background-color: yellow;
-	height: 100px;
-	width: auto;
+	height: 200px;
+	width: 200px;
 	color: #272727;
 	margin-left: 25px;
 	text-align: center;
@@ -49,10 +49,10 @@
 	font-size: 19px;
 	}
 	  .third{
-	height: 100px;
-	width: auto;
+	height: 200px;
+	width: 200px;
 	text-align: center;
-	margin-left: 10px;
+	margin-left: 0px;
 	padding-left: 4px;
 	padding-right: 4px;
 	font-size: 19px;
