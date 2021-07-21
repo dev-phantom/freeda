@@ -29,8 +29,8 @@
 		outline: none;
 	}
 	.first{
-	height: 500px;
-	width: 400px;
+	height: 300px;
+	width: auto;
 	margin-left: 25px;
 	text-align: center;
 	
@@ -49,7 +49,7 @@
 	font-size: 19px;
 	}
 	  .third{
-	height: 500px;
+	height: 250px;
 	width: auto;
 	text-align: center;
 	margin-left: 10px;
